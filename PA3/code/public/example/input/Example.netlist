@@ -1,0 +1,8 @@
+.SUBCKT EXAMPLE Vb vin vip vo gnd! vdd! vss!
+MM0 net0 net0 vdd! vdd! PMOS W=3.5u L=0.5u m=2
+MM1 vo net0 vdd! vdd! PMOS W=3.5u L=0.5u m=2
+MM2 net0 vip net1 vss! NMOS W=4u L=0.5u m=1
+MM3 vo vin net1 vss! NMOS W=4u L=0.5u m=1
+MM4 net1 vb vss! vss! NMOS W=4.8u L=0.5u m=4
+CL vo gnd! 1p 
+.ENDS

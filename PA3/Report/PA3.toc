@@ -1,0 +1,8 @@
+\contentsline {section}{\numberline {1}How I compile and execute the program}{1}{section.1}%
+\contentsline {section}{\numberline {2}Pseudo Code}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}The degree of completion of the assignment: \textcolor {red}{Perturbation Not Yet Complete}}{4}{subsection.2.1}%
+\contentsline {section}{\numberline {3}Algorithms and data structures}{4}{section.3}%
+\contentsline {section}{\numberline {4}Perturbation strategy and operations}{6}{section.4}%
+\contentsline {section}{\numberline {5}Cost function and how to determine to next state}{8}{section.5}%
+\contentsline {section}{\numberline {6}The hardness of this assignment / I overcome it}{9}{section.6}%
+\contentsline {section}{\numberline {7}Suggestions}{9}{section.7}%
