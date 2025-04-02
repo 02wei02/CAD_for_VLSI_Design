@@ -1,0 +1,6 @@
+\contentsline {section}{\numberline {1}The selection of training and validation sets.}{1}{section.1}%
+\contentsline {section}{\numberline {2}The feature selections and parameter settings}{1}{section.2}%
+\contentsline {section}{\numberline {3} The evaluation results}{6}{section.3}%
+\contentsline {section}{\numberline {4}The hardness of this assignment / I overcome it}{6}{section.4}%
+\contentsline {section}{\numberline {5}Bonus}{6}{section.5}%
+\contentsline {section}{\numberline {6}Suggestions}{10}{section.6}%
