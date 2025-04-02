@@ -1,0 +1,7 @@
+\contentsline {section}{\numberline {1}How I compile and execute the program}{1}{section.1}%
+\contentsline {section}{\numberline {2}Pseudo Code}{3}{section.2}%
+\contentsline {section}{\numberline {3}PA}{5}{section.3}%
+\contentsline {subsection}{\numberline {3.1}The degree of completion of the assignment: \textcolor {red}{ALL}}{5}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Code Explanation}{5}{subsection.3.2}%
+\contentsline {section}{\numberline {4}The hardness of this assignment / I overcome it}{12}{section.4}%
+\contentsline {section}{\numberline {5}Suggestions}{12}{section.5}%
